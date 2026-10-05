@@ -10,21 +10,6 @@
 
 ###
 
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-  🎓 Software Engineering student at Universidad de Colima<br>
-  💻 Focused on Backend and Web Development<br>
-  🚀 Experience developing web platforms, REST APIs and database-driven systems<br>
-  🌱 Currently improving my skills in Java, Spring Boot, Python and Cloud technologies<br>
-  🧠 Interested in Backend Development, Software Architecture, APIs and Cloud Computing<br>
-  🎯 Looking to grow professionally as a Software Developer
-</p>
-
-###
-
-<h2 align="center">🛠️ Technologies</h2>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="55" alt="php logo" />
   <img width="10" />
@@ -78,6 +63,27 @@
 
 ###
 
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  🎓 Software Engineering student at Universidad de Colima<br>
+  💻 Focused on Backend and Web Development<br>
+  🚀 Experience developing web platforms, REST APIs and database-driven systems<br>
+  🌱 Currently improving my skills in Java, Spring Boot, Python and Cloud technologies<br>
+  🧠 Interested in Backend Development, Software Architecture, APIs and Cloud Computing<br>
+  🎯 Looking to grow professionally as a Software Developer
+</p>
+
+###
+
+<div align="center">
+
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Luisgabrielmancillas/Luisgabrielmancillas/pacman-output/dist/pacman-contribution-graph-dark.svg)
+
+</div>
+
+###
+
 <h2 align="center">🚀 Projects</h2>
 
 <p align="center">
@@ -124,7 +130,7 @@
 
 <div align="center">
 
-  <a href="TU_LINK_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/mancillas-santiago-luis-gabriel-431704289" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
       height="30"
@@ -150,25 +156,6 @@
     alt="profile views"
   />
 </div>
-
-###
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Luisgabrielmancillas/Luisgabrielmancillas/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
-  >
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Luisgabrielmancillas/Luisgabrielmancillas/pacman-output/pacman-contribution-graph.svg?game=pacman"
-  >
-
-  <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/Luisgabrielmancillas/Luisgabrielmancillas/pacman-output/pacman-contribution-graph.svg?game=pacman"
-  >
-</picture>
 
 ###
 
