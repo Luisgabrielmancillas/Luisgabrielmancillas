@@ -28,31 +28,22 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="55" alt="php logo" />
   <img width="10" />
-
   <img src="https://skillicons.dev/icons?i=laravel" height="55" alt="laravel logo" />
   <img width="10" />
-
   <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo" />
   <img width="10" />
-
   <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo" />
   <img width="10" />
-
   <img src="https://skillicons.dev/icons?i=html" height="55" alt="html logo" />
   <img width="10" />
-
   <img src="https://skillicons.dev/icons?i=css" height="55" alt="css logo" />
   <img width="10" />
-
   <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwind logo" />
   <img width="10" />
-
   <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo" />
   <img width="10" />
-
   <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo" />
   <img width="10" />
-
   <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo" />
 </div>
 
@@ -63,16 +54,12 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring boot logo" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="google cloud logo" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
 </div>
 
@@ -105,11 +92,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luisgabrielmancillas&show_icons=true&theme=dracula&hide_border=false" height="160" alt="github stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dracula&hide_border=false" height="160" alt="github stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dracula&hide_border=false" height="160" alt="languages graph" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisgabrielmancillas&layout=compact&theme=dracula&hide_border=false" height="160" alt="languages graph" />
 </div>
 
 ###
@@ -119,15 +104,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    
+    srcset="https://raw.githubusercontent.com/Luisgabrielmancillas/Luisgabrielmancillas/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    
+    srcset="https://raw.githubusercontent.com/Luisgabrielmancillas/Luisgabrielmancillas/pacman-output/pacman-contribution-graph.svg?game=pacman">
+
   <img
     alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    src="https://raw.githubusercontent.com/Luisgabrielmancillas/Luisgabrielmancillas/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ###
@@ -136,7 +121,7 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/snake-output/snake.svg"
+    src="https://raw.githubusercontent.com/Luisgabrielmancillas/Luisgabrielmancillas/snake-output/snake.svg"
     alt="Snake animation"
   />
 </div>
@@ -146,7 +131,6 @@
 <h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
-
   <a href="TU_LINK_LINKEDIN" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
@@ -155,20 +139,19 @@
     />
   </a>
 
-  <a href="https://github.com/TU_USUARIO_GITHUB" target="_blank">
+  <a href="https://github.com/Luisgabrielmancillas" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge"
       height="30"
       alt="github logo"
     />
   </a>
-
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Luisgabrielmancillas&style=for-the-badge" alt="profile views" />
 </div>
 
 ###
