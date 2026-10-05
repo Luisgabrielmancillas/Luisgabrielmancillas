@@ -43,6 +43,18 @@
 
 ###
 
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  🎓 Software Engineering student at Universidad de Colima<br>
+  💻 Focused on Backend and Web Development<br>
+  🚀 Experience developing web platforms, REST APIs and database-driven systems<br>
+  🧠 Interested in Backend Development, Software Architecture, APIs and Cloud Computing<br>
+  🎯 Looking to grow professionally as a Software Developer
+</p>
+
+###
+
 <h2 align="center">📚 Currently Learning</h2>
 
 <div align="center">
@@ -63,24 +75,12 @@
 
 ###
 
-<h2 align="center">About Me</h2>
-
 <p align="center">
-  🎓 Software Engineering student at Universidad de Colima<br>
-  💻 Focused on Backend and Web Development<br>
-  🚀 Experience developing web platforms, REST APIs and database-driven systems<br>
-  🌱 Currently improving my skills in Java, Spring Boot, Python and Cloud technologies<br>
-  🧠 Interested in Backend Development, Software Architecture, APIs and Cloud Computing<br>
-  🎯 Looking to grow professionally as a Software Developer
+  <img
+    src="https://raw.githubusercontent.com/Luisgabrielmancillas/Luisgabrielmancillas/pacman-output/pacman-contribution-graph-dark.svg"
+    alt="Pacman Contribution Graph"
+  />
 </p>
-
-###
-
-<div align="center">
-
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Luisgabrielmancillas/Luisgabrielmancillas/pacman-output/dist/pacman-contribution-graph-dark.svg)
-
-</div>
 
 ###
 
@@ -130,7 +130,7 @@
 
 <div align="center">
 
-  <a href="www.linkedin.com/in/mancillas-santiago-luis-gabriel-431704289" target="_blank">
+  <a href="TU_LINK_LINKEDIN" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
       height="30"
