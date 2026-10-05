@@ -1,98 +1,178 @@
-<h1 data-importer="text" align="center">Hey 👋 What's Up? I'm Gabriel</h1>
+<h1 align="center">Hey 👋 What's Up? I'm Gabriel</h1>
 
 <p align="center">
-  Software Engineering student focused on Backend & Web Development 🚀
+  💻 Software Engineering Student | Backend & Web Developer
 </p>
 
 <p align="center">
-  🇲🇽 From Mexico | 💻 PHP · Laravel · Python · JavaScript
+  🇲🇽 Mexico &nbsp;•&nbsp; 🚀 Building Web Applications &nbsp;•&nbsp; 🌱 Always Learning
 </p>
 
 ###
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo" />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo" />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
-</div>
-
-###
-
-<h3 align="center">👨‍💻 About Me</h3>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
   🎓 Software Engineering student at Universidad de Colima<br>
-  🔭 Currently working on web development and backend projects<br>
-  🌱 Improving my skills in Java, Spring Boot, Python and Cloud technologies<br>
-  💡 Interested in Backend Development, Software Architecture and Cloud Computing<br>
-  🛠️ Experience building web applications, REST APIs, dashboards and database-driven systems<br>
-  🎯 My goal is to grow as a Software Developer and work on large-scale technology projects
+  💻 Focused on Backend and Web Development<br>
+  🚀 Experience developing web platforms, REST APIs and database-driven systems<br>
+  🌱 Currently improving my skills in Java, Spring Boot, Python and Cloud technologies<br>
+  🧠 Interested in Backend Development, Software Architecture, APIs and Cloud Computing<br>
+  🎯 Looking to grow professionally as a Software Developer
 </p>
 
 ###
 
-<h3 align="center">🚀 Main Technologies</h3>
+<h2 align="center">🛠️ Technologies</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php" height="55" alt="php logo" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=laravel" height="55" alt="laravel logo" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html logo" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css logo" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwind logo" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo" />
+</div>
+
+###
+
+<h2 align="center">📚 Currently Learning</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring boot logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="google cloud logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
+</div>
+
+###
+
+<h2 align="center">🚀 Projects</h2>
 
 <p align="center">
-  PHP • Laravel • Python • JavaScript • Java • MySQL • HTML • CSS • Tailwind CSS • Git • GitHub
+  🌱 <b>HydroBox</b><br>
+  Hydroponic monitoring and management platform built with Laravel, PHP, MySQL, Tailwind CSS and Chart.js.
 </p>
-
-###
-
-<h3 align="center">📌 Projects & Experience</h3>
 
 <p align="center">
-  🌱 HydroBox — Hydroponic monitoring and management system built with Laravel, MySQL, Tailwind and Chart.js<br><br>
-  
-  🛒 E-commerce & Marketplace Platforms — Development of web platforms for local businesses and online stores<br><br>
-  
-  🎓 Educational Platforms — Systems for managing users, teachers, students, activities, resources and notifications<br><br>
-  
-  🔌 IoT Projects — Integration of sensors, Raspberry Pi, GPIO controls and web interfaces
+  🛒 <b>E-commerce & Marketplace Platforms</b><br>
+  Development of web platforms focused on local businesses, online stores and digital commerce.
+</p>
+
+<p align="center">
+  🎓 <b>Educational Platforms</b><br>
+  Systems for managing students, teachers, activities, resources, roles and notifications.
+</p>
+
+<p align="center">
+  🔌 <b>IoT & Raspberry Pi</b><br>
+  Integration of sensors, GPIO controls, hydroponic systems and software interfaces.
 </p>
 
 ###
 
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/mancillas-santiago-luis-gabriel-431704289" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dracula&hide_border=false" height="160" alt="github stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dracula&hide_border=false" height="160" alt="languages graph" />
+
+</div>
+
+###
+
+<h2 align="center">👾 Arcade Mode</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/snake-output/snake.svg"
+    alt="Snake animation"
+  />
+</div>
+
+###
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<div align="center">
+
+  <a href="TU_LINK_LINKEDIN" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="30"
+      alt="linkedin logo"
+    />
   </a>
-  
-  <a href="TU_LINK_DE_GITHUB" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+
+  <a href="https://github.com/TU_USUARIO_GITHUB" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge"
+      height="30"
+      alt="github logo"
+    />
   </a>
+
+</div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&style=for-the-badge" alt="profile views" />
 </div>
 
 ###
 
 <p align="center">
-  💬 Always learning, building and improving.
+  💬 Always learning, building and improving 🚀
 </p>
